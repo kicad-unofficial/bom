@@ -1,2 +1,4 @@
-# bom
-Unofficial BOM generator plugins for KiCad 6.
+# BOM Plugins
+
+This is an unofficial collection of BOM (bill of materials) generation plugins
+for KiCad 6.
